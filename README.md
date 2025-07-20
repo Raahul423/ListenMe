@@ -88,12 +88,11 @@ git clone https://github.com/your-username/ListenMe.git
 cd ListenMe
 
 
-2. Install dependencies
-------
+### 2. Install dependencies
+
 npm install
 
-3. Start the development server
-4. ------
+### 3. Start the development server
 npm run dev
 
 👨‍💻 Author
