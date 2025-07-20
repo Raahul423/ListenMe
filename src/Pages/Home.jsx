@@ -13,7 +13,7 @@ const Home = () => {
 
 
     return (
-        <div className='bg-[url("./src/assets/Background.png")] bg-cover max-sm:h-fit bg-no-repeat max-sm:bg-repeat h-screen w-full ml-[8em] max-sm:m-0 flex max-sm:flex-col '>
+        <div className='bg-[url("/src/assets/Background.png")] bg-cover max-sm:h-fit bg-no-repeat max-sm:bg-repeat h-screen w-full ml-[8em] max-sm:m-0 flex max-sm:flex-col '>
             <MusicItems SongsList={SongsList} Songsdata={DummyData}/>
             <Musicdata SongsList={SongsList} Songsdata={DummyData} />
         </div >

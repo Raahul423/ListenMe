@@ -35,7 +35,7 @@ const Library = () => {
 
   return (
 
-    <div className='ml-[8em] max-sm:m-0 max-sm:p-[1em] w-full bg-[url("./src/assets/Background.png")] bg-cover p-6 '>
+    <div className='ml-[8em] max-sm:m-0 max-sm:p-[1em] w-full bg-[url("/src/assets/Background.png")] bg-cover p-6 '>
       <h1 className='text-4xl font-semibold py-8'>Songs Libarary</h1>
       <Libraryitems Currentsong={Currentsong} />
 
