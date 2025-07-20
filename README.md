@@ -63,7 +63,7 @@ ListenMe/
 #### Songs Lists
 ![Song Library](src/assets/Library.png)
 
-#### 🎟️ Seat Layout
+#### 🎟Favourites
 ![Favourites](src/assets/Favourites.png)
 
 
