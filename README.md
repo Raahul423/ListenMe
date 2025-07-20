@@ -57,6 +57,16 @@ ListenMe/
 
 📸 Screenshots
 ----------------------------------------------------------------------------------
+####  Player
+![Player](src/assets/Player.png)
+
+#### Songs Lists
+![Song Library](src/assets/Library.png)
+
+#### 🎟️ Seat Layout
+![Favourites](src/assets/Favourites.png)
+
+
 
 
 🧠 Learnings
