@@ -22,7 +22,6 @@ Deployed using Vercel
 - ⚙️ **Spotify Integration** – Uses Spotify (or Shazam) API to fetch song data.
 - 💚 **Modern UI** – Glassmorphism, Tailwind CSS, and elegant card layouts.
 
----
 
 ## 🖥️ Tech Stack
 
@@ -31,7 +30,7 @@ Deployed using Vercel
 - **Icons:** Lucide React, Custom PNG Assets
 - **State Management:** React Context API for Favourites
 
----
+
 
 ## 📁 Folder Structure
 ListenMe/
@@ -58,6 +57,16 @@ ListenMe/
 
 📸 Screenshots
 ----------------------------------------------------------------------------------
+####  Player
+![Player](src/assets/Player.png)
+
+#### Songs Lists
+![Song Library](src/assets/Library.png)
+
+#### 🎟Favourites
+![Favourites](src/assets/Favourites.png)
+
+
 
 
 🧠 Learnings
@@ -79,27 +88,32 @@ Handling dynamic routing with state transfer
 
 
 
+📄 License
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+This project is licensed under the [MIT License](./LICENSE).
+
+
+
+
 
 ## 🚀 Getting Started
 ---------------------------------------------------------------------------------------
 
 ### 1. Clone the repository
 
-```bash
-git clone https://github.com/your-username/ListenMe.git
+git clone https://github.com/Raahul423/ListenMe.git
 cd ListenMe
 
 
-2. Install dependencies
-
+### 2. Install dependencies
 
 npm install
 
-3. Start the development server
-
+### 3. Start the development server
 npm run dev
+
 
 👨‍💻 Author
 --------------------------------------------------------------------------------------
 Rahul Pal
-🔗 GitHub
+🔗 https://github.com/Raahul423
