@@ -29,7 +29,7 @@ const MusicItems = ({ SongsList, Songsdata }) => {
 
             <div className='basis-[50%] max-sm:w-[18em] max-sm:m-auto flex max-sm:flex-col max-sm:gap-6'>
                 <div className='basis-[40%] m-auto max-sm:flex max-sm:justify-center max-sm:w-fit relative w-[20em] h-[20em]'>
-                    <img className={`rounded-full w-[20em] max-sm:w-[10em] ${isplaying ? 'spin' : 'spin paused'}`} src="/src/assets/Disc.png" alt="Error" />
+                    <img className={`rounded-full w-[20em] max-sm:w-[10em] ${isplaying ? 'spin' : 'spin paused'}`} src="/Disc.png" alt="Error" />
                     <img
                         className={`rounded-full w-[8em] max-sm:w-16 max-sm:h-16 h-[8em] absolute top-[10em] max-sm:left-20 max-sm:top-[5em] left-[10em] spin translate-x-[-50%] translate-y-[-50%] ${isplaying ? 'spin' : 'paused'}`}
                         src={SongsList?.attributes?.artwork?.url}
