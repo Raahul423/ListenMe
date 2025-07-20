@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import Libraryitems from '../Components/Libraryitems';
-import DummyData from '../assets/Data';
+import DummyData from '../Components/Data';
 import {ArrowBigLeft, ArrowBigRight } from 'lucide-react';
 
 const Library = () => {

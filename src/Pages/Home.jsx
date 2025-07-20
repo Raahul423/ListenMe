@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react'
 import { useLocation, useNavigate, useParams } from 'react-router-dom'
-import DummyData from '../assets/Data';
+import DummyData from '../Components/Data';
 import Musicdata from '../Components/Musicdata';
 import MusicItems from '../Components/MusicItems';
 
