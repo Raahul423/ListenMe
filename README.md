@@ -8,7 +8,7 @@ It allows users to explore songs, play previews, view song details, and add them
 ----------------------------------------------------------------------------------------
 Deployed using Vercel
 
-👉 Live URL:  listen-me.vercel.app
+👉 Live URL: https://listen-me.vercel.app/
 👉 Github Repo: https://github.com/Raahul423/ShowBiz
 
 
