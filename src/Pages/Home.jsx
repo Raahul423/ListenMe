@@ -11,7 +11,7 @@ const Home = () => {
     const Songid = location.state?.id;
     const SongsList = DummyData.find((song) => song.id === Songid) || DummyData[0]
 
-
+//home
     return (
         <div className='bg-[url("/src/assets/Background.png")] bg-cover max-sm:h-fit bg-no-repeat max-sm:bg-repeat h-screen w-full ml-[8em] max-sm:m-0 flex max-sm:flex-col '>
             <MusicItems SongsList={SongsList} Songsdata={DummyData}/>
